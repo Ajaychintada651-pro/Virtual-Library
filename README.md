@@ -12,8 +12,9 @@ This is a React.js-based Virtual Book Library that allows users to browse books,
 ## How to Run
 1. Clone the repository.
 2. Install the dependencies: `npm install`
-3. Run the application: `npm start`
-4. Access the app at `http://localhost:3000`
+3. Install React Router `npm install react-router-dom`
+4. Run the application: `npm start`
+5. Access the app at `http://localhost:3000`
 
 ## Technologies Used
 - React.js
